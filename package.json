@@ -1,12 +1,12 @@
 {
   "name": "earthbot",
   "version": "1.0.0",
-  "description": "A Multipurpose discord bot",
+  "description": "A standard discord bot",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "savage doge",
+  "author": "Ivanio",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.5.1",
