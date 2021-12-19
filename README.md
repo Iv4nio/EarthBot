@@ -1,5 +1,6 @@
 # 🌎 EarthBot
-This bot creation was originally supposed to assist a discord server. However, the server is now disbanded therefore I've made this repository public.
+This bot creation was originally supposed to assist a discord server. 
+However, the server is now disbanded therefore I've made this repository public.
 
 # Invite
 If you would like to invite this bot, use the link provided:
