@@ -3,7 +3,7 @@ This bot creation was originally supposed to assist a discord server. However, t
 
 # Invite
 If you would like to invite this bot, use the link provided:
-🔗 https://discord.com/oauth2/authorize?client_id=579426425015369750&scope=bot&permissions=8
+- 🔗 https://discord.com/oauth2/authorize?client_id=579426425015369750&scope=bot&permissions=8
 
 # Commands within this bot (prefix: e!)
 - **e!ping** - Displays the ping counter
