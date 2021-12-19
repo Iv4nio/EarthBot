@@ -5,7 +5,8 @@ However, the server is now disbanded therefore I've made this repository public.
 
 # Invite
 If you would like to invite this bot, use the link provided:
-- 🔗 https://discord.com/oauth2/authorize?client_id=579426425015369750&scope=bot&permissions=8
+
+🔗 https://discord.com/oauth2/authorize?client_id=579426425015369750&scope=bot&permissions=8
 
 # Commands within this bot (prefix: e!)
 - **e!ping** - Displays the ping counter
