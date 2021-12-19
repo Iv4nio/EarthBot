@@ -28,4 +28,4 @@ I personally do not support self-hosting as any errors you make is your responsi
 # Support
 If you have any questions you can contact me via adding me through discord. My username and discriminator is **Ivanio#7978**
 
-The link for my discord server (hangout) is** https://discord.gg/BatwkX5NbG **
+The link for my discord server (hangout) is https://discord.gg/BatwkX5NbG 
