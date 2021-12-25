@@ -3,6 +3,8 @@ This bot creation was originally supposed to assist a discord server.
 
 However, the server has now been disbanded therefore I've made this repository public.
 
+WARNING: THIS REPOSITORY IS OUTDATED. SELF-HOSTING MAY CAUSE ERRORS
+
 # Commands within this bot (prefix: e!)
 - **e!ping** - Displays the ping counter
 - **e!serverinfo** - Shows the current server statistics
